@@ -10,4 +10,4 @@ improvement requires..
 
 -> can not add more dishes it because it depends on arrays not on file handling 
 
-//  in next update it will use txt wile so problem will be solved
+//  in next update it will use txt file to save data so problem will be solved
