@@ -1,5 +1,6 @@
 # restaurant-bill-generator
 This project help me to understand c++ concepts like arrays, for loop, if-else, swich statement and problem solving skills in c++
+--
 
 working.. 
 
